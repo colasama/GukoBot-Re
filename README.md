@@ -1,2 +1,7 @@
 # GukoBot-Re
-基于 Nonebot 2 的鸽子姬重构部分。
+
+## How to start
+
+1. generate project using `nb create` .
+2. writing your plugins under `guko_bot/plugins` folder.
+3. run your bot using `nb run` .
